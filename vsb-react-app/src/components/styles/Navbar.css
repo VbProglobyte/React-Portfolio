@@ -1,0 +1,25 @@
+/*NAV BAR STYLINGS */
+.navbar.is-link {
+  background-color: #000000;
+  color: #fff;
+}
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(0, 0, 0);
+}
+/* nav text */
+nav a {
+  flex-direction: row;
+  display: flex;
+  text-align: end;
+  margin: 25px;
+  text-decoration: none;
+  color:  #ffffff;
+  font-weight: lighter;
+  z-index: 3;
+}
+nav a:hover {
+  color: #0f54c2;
+  font-style: italic;
+}
