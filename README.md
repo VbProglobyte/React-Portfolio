@@ -59,7 +59,27 @@ Now lets add the `predeploy` and `deploy` scripts to `package.json`.
 ### Launch Locally
     - npm start
 
+## Check Project Settings
+
+Go to the GitHub project settings by clicking the link shown in the following image:
+
+![In GitHub, the Settings tab is underlined in red.](./Images/01-repo-settings.png)
+
+Check that your source branch is `gh-pages`, as shown in the following image:
+
+![In the Settings tab of GitHub Pages, gh-pages is set as the Source.](./Images/02-ready.png)
+
+**Note:** Keep in mind that your page may take a minute or two to deploy. At first, the notification will appear in a blue color while being published.
+
+Finally, let's refresh the page to make sure that the page has been published. This notification will appear in green, as shown in the following image:
+
+![In GitHub Pages, a green notification states, "Your site is published", followed by a link to the site.](./Images/04-published.png)
+
+Click on the URL to check that everything looks good.
+
 ## REF
+
+
 
 ### npm package and node_modules issues 
 https://stackoverflow.com/questions/37888057/npm-init-doesnt-create-package-json#:~:text=This%20is%20because%20it%20overwrites%20the%20existing%20package.json,init%2A%2A%20it%20works%20fine%20and%20create%20package.json%20file.
