@@ -95,3 +95,6 @@ https://reactjs.org/
 https://create-react-app.dev/docs/code-splitting/
 
 https://create-react-app.dev/docs/deployment/
+
+### Credits 
+thank you to MrTofuuu for helping with merge and deploy issues!
