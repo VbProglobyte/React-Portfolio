@@ -64,17 +64,16 @@ Now lets add the `predeploy` and `deploy` scripts to `package.json`.
 
 Go to the GitHub project settings by clicking the link shown in the following image:
 
-![In GitHub, the Settings tab is underlined in red.](./Images/01-repo-settings.png)
+![image](https://user-images.githubusercontent.com/83515305/150202639-4b039e9a-e2ef-40d1-800b-14f91f6c0250.png)
+
 
 Check that your source branch is `gh-pages`, as shown in the following image:
-
-![In the Settings tab of GitHub Pages, gh-pages is set as the Source.](./Images/02-ready.png)
-
 **Note:** Keep in mind that your page may take a minute or two to deploy. At first, the notification will appear in a blue color while being published.
 
 Finally, let's refresh the page to make sure that the page has been published. This notification will appear in green, as shown in the following image:
 
-![In GitHub Pages, a green notification states, "Your site is published", followed by a link to the site.](./Images/04-published.png)
+![image](https://user-images.githubusercontent.com/83515305/150202777-15ad10fe-5cb9-4641-81e1-9a2b161b490b.png)
+
 
 Click on the URL to check that everything looks good.
 
